@@ -1,4 +1,6 @@
-MOS 6581 SID schematics reverse-engineered by Leandro Nini based on silicon layouts revectorized and annotated by Tommi Lempinen.
+Reverse-engineering of the MOS 6581/8580 SID schematics by Leandro Nini and ttlworks,
+based on silicon layouts photographed by Michael Huth and revectorized and annotated
+by Tommi Lempinen.
 
 https://github.com/libsidplayfp/SID_schematics/wiki
 
